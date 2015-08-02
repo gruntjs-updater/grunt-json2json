@@ -1,0 +1,30 @@
+{
+	"test1_property1": "test1_property1 value",
+	"test2_property1": "test2_property1 value",
+	"test1_property2": "test1_property2 value",
+	"test1_arrayProperty": [
+		"test1_arrayProperty value 0"
+	],
+	"test1_objectProperty": {
+		"test1_objectProperty_property": "test1_objectProperty_property1 value"
+	},
+	"commonProperty": "commonProperty value in test 2",
+	"commonArrayProperty": [
+		"commonArrayProperty value 0 in test 2",
+		{
+			"commonArrayProperty_property_test1": "commonArrayProperty_property_test1 value",
+			"commonArrayProperty_property_test2": "commonArrayProperty_property_test2 value"
+		}
+	],
+	"commonObjectProperty": {
+		"commonObjectProperty_property_test1": "commonObjectProperty_property_test1 value",
+		"commonObjectProperty_property_test2": "commonObjectProperty_property_test2 value"
+	},
+	"test2_property2": "test2_property2 value",
+	"test2_arrayProperty": [
+		"test2_arrayProperty value 0"
+	],
+	"test2_objectProperty": {
+		"test2_objectProperty_property": "test2_objectProperty_property1 value"
+	}
+}
